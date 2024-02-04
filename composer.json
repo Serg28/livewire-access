@@ -1,5 +1,5 @@
 {
-    "name": "leanadmin/livewire-access",
+    "name": "Serg28/livewire-access",
     "description": "Control frontend access to properties/methods in Livewire using PHP 8 attributes.",
     "type": "library",
     "license": "MIT",
